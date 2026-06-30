@@ -1,0 +1,28 @@
+# Maven build output
+target/
+
+# Maven cache (optional, aber sinnvoll)
+.mvn/
+.m2/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Docker / Compose (falls im Repo vorhanden)
+docker-compose.yml
